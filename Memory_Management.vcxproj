@@ -130,7 +130,11 @@
     <ClCompile Include="Laviolette_Project_2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="addresses.txt" />
     <Text Include="README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\BACKING_STORE (1).bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

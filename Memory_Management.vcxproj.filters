@@ -21,5 +21,11 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="README.txt" />
+    <Text Include="addresses.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\BACKING_STORE (1).bin">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
